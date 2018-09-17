@@ -101,7 +101,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/comunicaciones-1008x768-800x610.png",
                 "alt": "",
                 "title": "",
-                "caption": "Comunicaciones",
+                "caption": "<a href=\"https://promediasur.github.io/comunication/\" target=\"_blank\">Comunicaciones</a>",
                 "active": false
               },
               {
@@ -113,7 +113,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/incom-pc-1008x768-800x610.png",
                 "alt": "",
                 "title": "",
-                "caption": "Informática",
+                "caption": "<a href=\"https://promediasur.github.io/pc/\" target=\"_blank\">Informática</a>",
                 "active": false
               },
               {
@@ -125,7 +125,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/promediasur-1008x768-800x610.png",
                 "alt": "",
                 "title": "",
-                "caption": "Diseño",
+                "caption": "<a href=\"https://promediasur.github.io/dweb/\" target=\"_blank\">Diseño</a>",
                 "active": false
               },
               {
@@ -137,7 +137,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/wordpress-y-contenido-1008x752-800x597.png",
                 "alt": "",
                 "title": "",
-                "caption": "Wordpress y contenido",
+                "caption": "<a href=\"https://realmet.wordpress.com/\" target=\"_blank\">Wordpress y contenido</a>",
                 "active": false
               },
               {
@@ -149,7 +149,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/app-blog-1008x768-800x610.png",
                 "alt": "",
                 "title": "",
-                "caption": "Web App",
+                "caption": "<a href=\"https://promediasur.github.io/linux-reader/\" target=\"_blank\">Web App</a>",
                 "active": false
               },
               {
@@ -161,7 +161,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/empresa-empaques-1008x768-800x610.png",
                 "alt": "",
                 "title": "",
-                "caption": "Empresa",
+                "caption": "<a href=\"http://www.empaquetermocontraible.com.uy\" target=\"_blank\">Empresa</a>",
                 "active": false
               },
               {
@@ -173,7 +173,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/alumnos-1008x768-800x610.png",
                 "alt": "",
                 "title": "",
-                "caption": "Colaboración",
+                "caption": "<a href=\"http://mercadoautomotor.com\" target=\"_blank\">Colaboración</a>",
                 "active": false
               },
               {
@@ -185,7 +185,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/blog-msica-1008x768-800x610.png",
                 "alt": "",
                 "title": "",
-                "caption": "Simple Blog",
+                "caption": "<a href=\"https://clasificadosdemusica.blogspot.com/\" target=\"_blank\">Simple Blog</a>",
                 "active": true
               }
             ]
